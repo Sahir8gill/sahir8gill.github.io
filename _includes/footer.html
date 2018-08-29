@@ -1,8 +1,4 @@
-<footer>
-    {% assign tmp = "/" | append: site.baseurl %}
-    {% if page.url != tmp %}
-        <h2><a href="{{ site.baseurl }}/">Home</a></h2>
-    {% endif %}
-    <div class="divider"></div>
-    <p>&copy; 2016 <a href=http://www.github.com/ezrasavard/ezora-jekyll-theme>Ezora Theme</a></p>
+<footer class="blog-footer content-wrapper">
+  <p>&copy; <span class="full-year"></span> {{ site.title }}</p>
 </footer>
+<script src="{{ site.baseurl }}/assets/js/scripts.js"></script>

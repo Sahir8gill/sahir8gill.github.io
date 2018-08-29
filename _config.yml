@@ -1,65 +1,44 @@
-title: Ezora Theme!
-email: git@ezrasavard.com
-greeting: Welcome to the Ezora Sample Site
-description: > # this means to ignore newlines until another tag
-    Ezora is a responsive Jekyll theme with a clean single column layout, nifty text overlays for images and a mobile friendly navigation bar.
-github:  ezrasavard
-linkedin: ezrasavard
-favicon: favicon.png
-navlinks:
-    -
-        text: Home
-        url: /
-        internal: True
-    -
-        text: Sample Page
-        url: /sample
-        internal: True
-    -
-        text: Github
-        url: https://www.github.com/ezrasavard
-        internal: False
-    -
-        text: LinkedIn
-        url: https://www.linkedin.com/in/ezrasavard
-        internal: False
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Your awesome title
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+lang: "en"
+url: "http://localhost:4000" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+disqus_username:
 
 # Build settings
-paginate: 3
-baseurl: "/ezora-jekyll-theme" # the subpath of your site, e.g. /blog/
-#baseurl: ""
-url: "https://ezrasavard.github.io" # the base hostname & protocol for your site
-highlights: pygments
-permalink: posts/:title/
-include: ["_pages"]
-plugins: [jekyll-paginate]
 markdown: kramdown
-excerpt_separator: "<!--more-->"
-sass:
-    sass_dir: _sass
-    style: compressed
+permalink: /:categories/:title/
 
-# cover images are expected to be 900px by 240px, or at least 15:4 aspect ratio
-# thumbnails look best with 3:1 or 5:2 ratios in this layout.
-defaults:
-    -
-        scope:
-            path: ""
-        values:
-            layout: "default"
-    -
-        scope:
-            path: ""
-            type: "posts"
-        values:
-            author: "Ezra Savard"
-            cover: "/media/header.jpg"
-            layout: "post"
-    -
-        scope:
-            path: ""
-            type: "pages"
-        values:
-            author: "Ezra Savard"
-            cover: "/media/header.jpg"
-            layout: "default"
+# Posts settings
+future: true
+safe: false
+lsi: false
+excerpt_separator: "\n\n"
+
+# Theme settings
+compress_html:
+  comments: ["<!-- ", " -->"]
+  clippings: all
+  endings: all
+
+
+sass:
+  sass_dir: assets/_sass
+  style: compressed
+
+
+images: '/assets/images'

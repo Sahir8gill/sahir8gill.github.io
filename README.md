@@ -1,38 +1,73 @@
-# Ezora Theme for Jekyll
+## Voyager
 
-Ezora is a responsive Jekyll theme with a clean single column layout, nifty text overlays for images and a mobile friendly navigation bar.
+Just another jekyll theme. Demo: <http://redvi.github.io/voyager>
 
-I designed this theme from the ground up for [my own website](http://www.ezrasavard.com) and had some inspiration from the [Flex Jekyll Theme](http://the-development.github.io/flex/) (fonts!) and [Lise Savard's Blog](http://lisesavard.com/).
+### Feathures:
 
-### [Try Ezora Live!](https://ezrasavard.github.io/ezora-jekyll-theme)
+All HTML files are compressed (see `_layouts/compress.html`).
 
-Feel free to use this theme however you like (MIT License).
+**Post**
 
-## Screenshots!
+All post settings can be changed. Example:
 
-### Desktop
-![screenshot-desktop](https://github.com/ezrasavard/ezora-jekyll-theme/blob/master/screenshot.png)
+```
+---
+layout: post
+bg: '2016/background.jpg'
+title: "Post Heading"
+crawlertitle: "page title"
+summary: "post description"
+date: 2016-06-29
+tags : ['front-end']
+slug: post-url
+author: "Author"
+categories: posts
+---
+```
 
-### Mobile
-![screenshot-mobile](https://github.com/ezrasavard/ezora-jekyll-theme/blob/master/screenshot-mobile.png)
+`bg` is a path to background of your article. By default backgrounds are placed in the `assets/images` directory.
 
-## Installation
+**Page**
 
-To install Ezora, fork this repository and add your sites content =)
+If page contains `active` tag, it will be show on site menu.
 
-## Usage
+```
+---
+layout: page
+title: "About"
+permalink: /about/
+active: about
+---
+```
 
-Ezora uses a fairly minimal set of layouts and sass, and will automatically conform to a sensible layout based on the YAML provided, unless a layout is specified. Width/height values are all defined in the top of main.scss as variables, so you don't have to hunt too far through the SCSS to tweak things.
+**Archive**
 
-The **default** layout handles the home page and any other pages while the **post** layout extends the default slightly to include a date-stamp at the top of the page.
+Archive page is sorting posts by tags. No more than one tag in one post.
 
-Notable _includes are the shiny and responsive **topbar**, included in the default layout, the **navbar** and the **postlist**, which is a paginated pile of posts you can include in any page, like the default home page does. You can specify your navigation menu links in **navbar** if you don't like it generating them for all your pages, GitHub and LinkedIn accounts. You can also add more social accounts if you like by extending the list in navbar.html.
+Good:
 
-## Contributing
+```
+tags : ['front-end']
+```
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/ezrasavard/ezora-jekyll-theme. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bad:
 
-## License
+```
+tags : ['front-end', 'jekyll']
+```
 
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+Don't forget to change `_config.yml`.
 
+**Relative paths**
+
+If your blog is not in the root directory, you can include images with a relative path. For example:
+
+```
+![my_image]({{ site.images | relative_url }}/image.jpg)
+```
+
+## Production environment
+
+Build for production:
+
+`JEKYLL_ENV=production jekyll build`
