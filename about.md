@@ -21,6 +21,8 @@ While majoring in engineering, I have also studied a few mathematics courses, de
 
 As of August 2018, I am also involved in working towards the upliftment of the economically challenged community around campus by providing educational assistance to children living there on a bi-weekly basis. This project is undertaken by [Nirmaan](https://www.facebook.com/goanirmaan/ "Facebook Page"){:target="_blank"} and I specifically work under Project Lamani. More details about [Nirmaan]({{ sahir8gill.github.io }}/assets/Nirmaan Newsletter.pdf){:target="_blank"}.
 
+In the academic year 2017-2018, I worked as the editor for campus' annual [magazine](http://www.bits-pilani.ac.in/Uploads/Goa_Upload/SIZZLING_SANDS_2016-2017.pdf "Read"){:target="_blank"}.
+
 For more detailed information about my professional life: [CV]({{ sahir8gill.github.io }}/assets/CV_Sahir Gill.pdf){:target="_blank"}
 
 <!-- display the social media buttons in your README -->
