@@ -16,5 +16,5 @@ For more detailed information about my professional life: [CV]({{ sahir8gill.git
 
 [![Foo](mail.png)](mailto:sahirgill8@gmail.com){:target="_blank"}
 [![Foo](insta.png)](https://www.instagram.com/sahir8gill/){:target="_blank"}
-[![Foo](linkin.png)](www.linkedin.com/in/sahir8gill){:target="_blank"}
+[![Foo](linkin.png)](https://www.linkedin.com/in/sahir8gill){:target="_blank"}
 [![Foo](fb.png)](https://www.facebook.com/sahir.gill.35){:target="_blank"}
