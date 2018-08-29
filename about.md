@@ -10,7 +10,7 @@ active: about
 
 I'm a final year undergraduate of Electrical & Electronics Engineering at [Birla Institute of Technology and Science, Pilani: K.K. Birla Goa Campus](http://www.bits-pilani.ac.in/Goa/index.aspx "Institute Homepage"){:target="_blank"}.
 
-While majoring in engineering, I have also studied a few mathematics courses, details of which can be found [here]({{ sahir8gill.github.io }}/assets/List of Math Courses.pdf){:target="_blank"}. Subsequently, I have worked as the Teacher's Assistance for the following math Course:
+While majoring in engineering, I have also studied a few mathematics courses, details of which can be found [here]({{ sahir8gill.github.io }}/assets/List of Math Courses.pdf){:target="_blank"}. Subsequently, I have worked as the Teacher's Assistance for the following math courses:
 
  
 | ------------- |:-------------:|
