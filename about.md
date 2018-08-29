@@ -2,18 +2,14 @@
 bg: "owl.jpg"
 layout: page
 title: "About"
-crawlertitle: "Why and how this blog was created"
+crawlertitle: "About Sahir Gill"
 permalink: /about/
-summary: "About this blog"
+summary: "About"
 active: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hello! I'm a final year undergraduate of Electrical & Electronics Engineering at Birla Institute of Technology and Science, Pilani: K.K. Birla Goa Campus.//add link
 
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+You can follow my adventures on Instagram @sahir8gill and mail me: sahirgill8@gmail.com
 
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+//add cv etc etc
