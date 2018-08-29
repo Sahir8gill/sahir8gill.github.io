@@ -1,9 +1,9 @@
 ---
-bg: "ciggs.jpg"
+bg: "rose.jpg"
 layout: page
-title: "Notes&Quotes"
-crawlertitle: "Some intersting excerpts from my notes"
-permalink: /Notes&Quotes/
-summary: "Some interesting excerpts from my notes"
-active: Notes&Quotes
+title: "Poetry"
+crawlertitle: "A collection of my poems"
+permalink: /Poetry/
+summary: "A collection of my poems"
+active: Poetry
 ---
