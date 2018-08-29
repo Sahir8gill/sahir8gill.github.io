@@ -12,4 +12,12 @@ I'm a final year undergraduate of Electrical & Electronics Engineering at [Birla
 
 For more detailed information about my professional life: [CV]({{ sahir8gill.github.io }}/assets/CV_Sahir Gill.pdf){:target="_blank"}
 
-More: <a href="mailto:sahirgill8@gmail.com"><img src="mail.png" style="width:50%; height:50%" title="Gmail: sahirgill8@gmail.com" alt="e-mail"></a>
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+
+[1.1]: mail.png 
+[2.1]: insta.png 
+[3.1]: linkin.png 
+[4.1]: fb.png 
