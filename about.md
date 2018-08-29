@@ -4,7 +4,7 @@ layout: page
 title: "About"
 crawlertitle: "About Sahir Gill"
 permalink: /about/
-summary: "About"
+summary: ""
 active: about
 ---
 
