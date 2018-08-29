@@ -12,6 +12,8 @@ I'm a final year undergraduate of Electrical & Electronics Engineering at [Birla
 
 For more detailed information about my professional life: [CV]({{ sahir8gill.github.io }}/assets/CV_Sahir Gill.pdf){:target="_blank"}
 
+<!-- display the social media buttons in your README -->
+
 ![alt text][1.1] ![alt text][2.1] ![alt text][3.1] ![alt text][4.1]
 
 [1.1]: mail.png (Email)
