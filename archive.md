@@ -2,10 +2,10 @@
 bg: "tag.jpg"
 layout: page
 permalink: /posts/
-title: "Archive"
-crawlertitle: "All articles"
-summary: "Posts about jekyll"
-active: archive
+title: "Research"
+crawlertitle: "Research Projects and Papers"
+summary: "Find my recent research projects here:"
+active: research
 ---
 
 {% for tag in site.tags %}
