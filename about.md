@@ -8,7 +8,7 @@ summary: "Sahir Gill"
 active: about
 ---
 
-I'm a final year undergraduate of Electrical & Electronics Engineering at [Birla Institute of Technology and Science, Pilani: K.K. Birla Goa Campus]({http://www.bits-pilani.ac.in/Goa/index.aspx}).//add link
+I'm a final year undergraduate of Electrical & Electronics Engineering at [Birla Institute of Technology and Science, Pilani: K.K. Birla Goa Campus]({https://www.bits-pilani.ac.in/Goa/index.aspx "Institute Homepage"}).
 
 You can follow my adventures on Instagram @sahir8gill and mail me: sahirgill8@gmail.com
 
