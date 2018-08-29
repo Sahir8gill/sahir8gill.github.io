@@ -14,6 +14,4 @@ For more detailed information about my professional life: [CV]({{ sahir8gill.git
 
 <!-- display the social media buttons in your README -->
 
-[<img src="mail.png">](mailto:sahirgill8@gmail.com)
-
-[![Foo](mail.png)](mailto:sahirgill8@gmail.com)
+[![Foo](mail.png)](mailto:sahirgill8@gmail.com){:target="_blank"}
