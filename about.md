@@ -12,7 +12,7 @@ I'm a final year undergraduate of Electrical & Electronics Engineering at [Birla
 
 While majoring in engineering, I have also studied a few mathematics courses, details of which can be found [here]({{ sahir8gill.github.io }}/assets/List of Math Courses.pdf){:target="_blank"}. Subsequently, I have worked as the Teacher's Assistance for the following math Course:
 
-| T.A. for course        | Year          | 
+ 
 | ------------- |:-------------:|
 | Mathematics I (Multivariable Calculus)      | Fall '18 |
 | Mathematics II (Linear Algebra & Complex Analysis)      | Spring '18     |
