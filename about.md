@@ -10,7 +10,7 @@ active: about
 
 I'm a final year undergraduate of Electrical & Electronics Engineering at [Birla Institute of Technology and Science, Pilani: K.K. Birla Goa Campus](http://www.bits-pilani.ac.in/Goa/index.aspx "Institute Homepage"){:target="_blank"}.
 
-While majoring in engineering, I have also studied a few mathematics courses, details of which can be found [here]({{ sahir8gill.github.io }}/assets/List of Math Courses.pdf){:target="_blank"} 
+While majoring in engineering, I have also studied a few mathematics courses, details of which can be found [here]({{ sahir8gill.github.io }}/assets/List of Math Courses.pdf){:target="_blank"}.
 
 As of August 2018, I am also involved in working towards the upliftment of the economically challenged community around campus by providing educational assistance to children living there on a bi-weekly basis. This project is undertaken by [Nirmaan](https://www.facebook.com/goanirmaan/ "Facebook Page"){":target="_blank"} and I specifically work under Project Lamani. More details about [Nirmaan]({{ sahir8gill.github.io }}/assets/Nirmaan Newsletter.pdf){:target="_blank"}.
 
