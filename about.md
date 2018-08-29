@@ -15,6 +15,6 @@ For more detailed information about my professional life: [CV]({{ sahir8gill.git
 ![alt text][1.1] ![alt text][2.1] ![alt text][3.1] ![alt text][4.1]
 
 [1.1]: mail.png (Email)
-[2.1]: insta.png 
+[2.1]: insta.png (Instagram)
 [3.1]: linkin.png 
 [4.1]: fb.png 
