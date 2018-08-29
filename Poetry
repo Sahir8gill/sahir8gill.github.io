@@ -1,9 +1,9 @@
 ---
 bg: "rose.jpg"
 layout: page
-title: "Poetry"
+title: "poetry"
 crawlertitle: "Some of my poems"
-permalink: /Poetry/
+permalink: /poetry/
 summary: "A collection of my poems"
-active: Poetry
+active: poetry
 ---
