@@ -1,9 +1,0 @@
----
-bg: "rose.jpg"
-layout: page
-title: "poetry"
-crawlertitle: "Some of my poems"
-permalink: /poetry/
-summary: "A collection of my poems"
-active: poetry
----
