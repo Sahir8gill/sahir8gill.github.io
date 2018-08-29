@@ -1,5 +1,5 @@
 ---
-bg: "ciggs.jpg"
+bg: "notes.jpg"
 layout: page
 title: "Notes&Quotes"
 crawlertitle: "Some intersting excerpts from my notes"
