@@ -1,5 +1,5 @@
 ---
-bg: "tag.jpg"
+bg: "research.jpg"
 layout: page
 permalink: /posts/
 title: "Research"
