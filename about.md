@@ -14,9 +14,6 @@ For more detailed information about my professional life: [CV]({{ sahir8gill.git
 
 <!-- display the social media buttons in your README -->
 
-![alt text][1.1](mailto:sahirgill8@gmail.com "sahirgill8@gmail.com") ![alt text][2.1] ![alt text][3.1] ![alt text][4.1]
+[<img src="mail.png">](mailto:sahirgill8@gmail.com)
 
-[1.1]: mail.png 
-[2.1]: insta.png 
-[3.1]: linkin.png 
-[4.1]: fb.png 
+[![Foo](mail.png)](mailto:sahirgill8@gmail.com)
