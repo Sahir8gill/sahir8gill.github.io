@@ -29,8 +29,8 @@ For more detailed information about my professional life: [CV]({{ sahir8gill.git
 <!--[![Foo](mail.png)](mailto:sahirgill8@gmail.com){:target="_blank"} [![Foo](insta.png)](https://www.instagram.com/sahir8gill/){:target="_blank"} [![Foo](linkin.png)](https://www.linkedin.com/in/sahir8gill){:target="_blank"} [![Foo](fb.png)](https://www.facebook.com/sahir.gill.35){:target="_blank"} -->
 
 <div align="center">
-    <a style="display:inline-block" {:target="_blank"} href="mailto:sahirgill8@gmail.com"><img src="/mail.png" width="auto" title="email" alt="My Email"></a>
-    <a style="display:inline-block" {:target="_blank"} href="https://www.instagram.com/sahir8gill/"><img src="/insta.png" width="auto" title="Instagram" alt="My Instagram"></a>
-    <a style="display:inline-block" {:target="_blank"} href="https://www.linkedin.com/in/sahir8gill"><img src="/linkin.png" width="auto" title="LinkedIn" alt="My LinkedIn"></a>
-    <a style="display:inline-block" {:target="_blank"} href="https://www.facebook.com/sahir.gill.35"><img src="/fb.png" width="auto" title="Facebook" alt="My Facebook"></a>
+    <a style="display:inline-block" target="_blank" href="mailto:sahirgill8@gmail.com"><img src="/mail.png" width="auto" title="email" alt="My Email"></a>
+    <a style="display:inline-block" target="_blank" href="https://www.instagram.com/sahir8gill/"><img src="/insta.png" width="auto" title="Instagram" alt="My Instagram"></a>
+    <a style="display:inline-block" target="_blank" href="https://www.linkedin.com/in/sahir8gill"><img src="/linkin.png" width="auto" title="LinkedIn" alt="My LinkedIn"></a>
+    <a style="display:inline-block" target="_blank" href="https://www.facebook.com/sahir.gill.35"><img src="/fb.png" width="auto" title="Facebook" alt="My Facebook"></a>
 </div>
