@@ -27,14 +27,14 @@
 
   function refreshImageSizes() {
     // select all images
-    [].forEach.call(images, function(img) {
-      // if image zoomed
-      if (img.classList.contains('img-popup')) {
-        img.style.maxHeight = imageHeight + 'px';
-        img.style.marginLeft = '-' + (img.offsetWidth / 2) + 'px';
-        img.style.marginTop = '-' + (img.offsetHeight / 2) + 'px';
-      }
-    });
+    // [].forEach.call(images, function(img) {
+    //   // if image zoomed
+    //   if (img.classList.contains('img-popup')) {
+    //     img.style.maxHeight = imageHeight + 'px';
+    //     img.style.marginLeft = '-' + (img.offsetWidth / 2) + 'px';
+    //     img.style.marginTop = '-' + (img.offsetHeight / 2) + 'px';
+    //   }
+    // });
   }
 
   function resetShadow() {
@@ -51,16 +51,16 @@
   }
 
   function resetAllImages() {
-    [].forEach.call(images, function(img) {
+    /*[].forEach.call(images, function(img) {
       img.classList.remove('img-popup');
       img.style.cursor = 'zoom-in';
       img.style.marginLeft = 'auto';
       img.style.marginTop = 'auto';
-    });
+    });*/
   }
 
   function toggleImages() {
-    [].forEach.call(images, function(img) {
+    /*[].forEach.call(images, function(img) {
       img.addEventListener('click', function(event) {
         event.preventDefault();
         img.classList.toggle('img-popup');
@@ -78,7 +78,7 @@
           shadow.style.display = 'none';
         }
       });
-    });
+    });*/
   }
 })();
 
