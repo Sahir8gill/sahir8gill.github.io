@@ -1,4 +1,5 @@
 ---
+bg: "dg_notes.jpg"
 layout: post
 title:  "Welcome to My Mathematical Mix!"
 crawlertitle: "Welcome"
