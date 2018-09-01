@@ -3,10 +3,10 @@ bg: "dg_notes.jpg"
 layout: post
 title:  "Welcome to My Mathematical Mix!"
 crawlertitle: "Welcome"
-summary: "Default page"
+summary: "Welcome"
 date:   2018-01-16 23:09:47 +0700
 categories: posts
-tags: 'Mathematical Mix'
+tags: "Mathematical Mix"
 author: Sahir Gill
 ---
 
