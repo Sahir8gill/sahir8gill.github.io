@@ -5,7 +5,9 @@ title:  "On the Sendov Conjecture"
 crawlertitle: "Sendov's Conjecture"
 summary: ""
 date:   2018-02-05 23:09:47 +0700
-categories: posts
-tags: "bresearch"
+categories: research
+tags: "Research"
 author: Sahir Gill
 ---
+
+test test test.
