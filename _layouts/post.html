@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+{%  if post.welcome %}
+{% else %}
 <article class="post">
 
   <h1 class="post-title">{{ page.title }}</h1>
@@ -37,3 +39,4 @@ layout: default
   </div>
 
 </article>
+{% endif %}
