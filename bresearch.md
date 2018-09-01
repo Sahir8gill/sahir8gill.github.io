@@ -9,7 +9,7 @@ active: research
 ---
 
 <div id="archives">
-{% for category in site.categories: 5 %}
+{% for category in site.categories %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
     {% for post in site.categories[category_name]: 5 %}
