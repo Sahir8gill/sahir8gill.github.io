@@ -1,5 +1,5 @@
 ---
-bg: "dg_notes.jpg"
+bg: "sendov.jpg"
 layout: post
 title:  "On the Sendov Conjecture"
 crawlertitle: "Sendov's Conjecture"
