@@ -10,4 +10,5 @@ tags: "Research"
 author: Sahir Gill
 ---
 
-test test test.
+The Sendov Conjecture talks about location of critical points in relation of zeros of a polynomial, specifically of those polynomials whose zeros lie within the disk of unit radius centred at origin of the Argand plane. It claims that the critical points (zeros of derivative) of a polynomial, whose zeros lie within the unit disk centred at origin, lie within a unit disk constructed about any arbitrary zero of the polynomial. 
+
