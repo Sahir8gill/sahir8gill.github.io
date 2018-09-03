@@ -1,5 +1,5 @@
 ---
-bg: "sendov.jpg"
+bg: "rose.jpg"
 layout: post
 title:  "On Friendship"
 crawlertitle: "via catastrophecreations"
