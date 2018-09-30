@@ -6,7 +6,7 @@ crawlertitle: "via catastrophecreations"
 summary: ""
 date:   2018-02-15 23:09:47 +0700
 categories: poetry
-tags: "Poetry"
+tags: 'Poetry'
 author: Sahir Gill
 ---
 
