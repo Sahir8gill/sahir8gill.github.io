@@ -14,12 +14,12 @@ active: Poetry
     {% capture category_name %}{{ category | first }}{% endcapture %}
     {% for post in site.categories[category_name]: 5 %}
    {% if post.welcome %} {% else %}
-      {% if post.tags == 'Poetry' %}
-      <article class="index-page">
-        <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
-        {{ post.excerpt }}
-      </article>
-      {% endif %}
+    {% if post.categories contains "poetry" %}
+    <article class="index-page">
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+      {{ post.excerpt }}
+    </article>
+    {% endif %}
 {% endif %}
     {% endfor %}
   </div>
