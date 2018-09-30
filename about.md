@@ -8,7 +8,7 @@ summary: "Sahir Gill"
 active: about
 ---
 
-Hello! I'm a final year undergraduate of Electrical & Electronics Engineering at [Birla Institute of Technology and Science, Pilani: K.K. Birla Goa Campus](http://www.bits-pilani.ac.in/Goa/index.aspx "Institute Homepage"){:target="_blank"}. My primary interest has been mathematics and I have worked on projects in complex analysis and number theory. I also like to write poems and read english literature. Find me on [Goodreads](https://www.goodreads.com/user/show/60278331-sahir-gill "opens in new tab"){:target="_blank"}.
+Hello! I'm a final year undergraduate of Electrical & Electronics Engineering at [Birla Institute of Technology and Science, Pilani: K.K. Birla Goa Campus](http://www.bits-pilani.ac.in/Goa/index.aspx "Institute Homepage"){:target="_blank"}. My primary interest has been mathematics and I have worked on projects in complex analysis and analytical number theory. I also like to write poems and read english literature. Find me on [Goodreads](https://www.goodreads.com/user/show/60278331-sahir-gill "opens in new tab"){:target="_blank"}.
 
 While majoring in engineering, I have also studied a few mathematics courses, details of which can be found [here]({{ sahir8gill.github.io }}/assets/List of Math Courses.pdf){:target="_blank"}. Subsequently, I have TAed the following math courses:
 
