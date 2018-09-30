@@ -11,16 +11,16 @@ active: Notes&Quotes
 {% for category in site.categories %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
-    {% for post in site.categories[category_name]: 5 %}
+  {% for post in site.categories[category_name]: 5 %}
    {% if post.welcome %} {% else %}
-   {% if post.tags == "Notes&Quotes" %}
+    {% if post.categories contains "notesandquotes" %}
     <article class="index-page">
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
       {{ post.excerpt }}
     </article>
     {% endif %}
-{% endif %}
-    {% endfor %}
+  {% endif %}
+  {% endfor %}
   </div>
 {% endfor %}
 </div>
