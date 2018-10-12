@@ -22,7 +22,7 @@ As of August 2018, I am also involved in working towards the upliftment of the e
 
 In the academic year 2017-2018, I worked as the editor for campus' annual [magazine](http://www.bits-pilani.ac.in/Uploads/Goa_Upload/SIZZLING_SANDS_2016-2017.pdf "Read"){:target="_blank"}.
 
-For more detailed information about my professional life: [CV]({{ sahir8gill.github.io }}/assets/CV_Sahir Gill.pdf){:target="_blank"}
+For more detailed information about my professional life: [CV]({{ sahir8gill.github.io }}/assets/Sahir Gill_CV.pdf){:target="_blank"}
 
 <!-- display the social media buttons in your README -->
 
