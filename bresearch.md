@@ -20,6 +20,10 @@ active: research
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
       {{ post.excerpt }}
     </article>
+    <article class="index-page">
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+      {{ post.excerpt }}
+    </article>
   {% endif %}
   {% endif %}
     {% endfor %}
