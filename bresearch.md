@@ -12,7 +12,7 @@ active: research
 {% for category in site.categories %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
-    {% for post in site.categories[category_name]: 5 %}
+    {% for post in site.categories[category_name]: 15 %}
    {% if post.welcome %} {% else %}
        {% if post.categories contains "research" %}
 
