@@ -1,0 +1,13 @@
+---
+bg: "sendov.jpg"
+layout: post
+title:  "On Bounds for Region Containing All the Zeros of a Complex Polynomial"
+crawlertitle: "Bounds for Region Containing all the zeros of a complex polynomial"
+summary: ""
+date:   2018-05-07 23:09:47 +0700
+categories: research
+tags: "Research"
+author: Sahir Gill
+---
+
+A series of papers by Dalal and Govil some the theme of bounding regions containing all the zeros of a complex polynomial makes it clear on the way to progress in the same direction. An important theorem in this regard is presented in one of their papers: [this](https://doi.org/10.1016/j.amc.2013.02.073){:target="_blank"}. It comments on the nature of sequence that can be used to bound said region. All that was needed next was to find such sequences such that a non-redundant bound can be modelled. This is precisely what is done in this [paper](http://www.m-hikari.com/ijma/ijma-2018/ijma-5-8-2018/p/gillIJMA5-8-2018.pdf){:target="_blank"}

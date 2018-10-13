@@ -4,7 +4,7 @@ layout: post
 title:  "On the Sendov Conjecture"
 crawlertitle: "Sendov's Conjecture"
 summary: ""
-date:   2018-07-11 23:09:47 +0700
+date:   2018-02-02 23:09:47 +0700
 categories: research
 tags: "Research"
 author: Sahir Gill
