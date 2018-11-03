@@ -17,7 +17,7 @@ active: research
     {% if post.categories contains "research" %}
     <article class="index-page">
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
-      {{ post.excerpt }}
+      {{ post.excerpt | strip_html }}
     </article>
     {% endif %}
 {% endif %}
