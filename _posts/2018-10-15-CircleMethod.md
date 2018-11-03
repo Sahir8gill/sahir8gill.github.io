@@ -11,7 +11,7 @@ author: Sahir Gill
 ---
 
 This informal project on analytic number theory has started off with an introduction to the [Circle Method by Miller and Takloo-Bighash]({{ sahir8gill.github.io }}/assets/circlemethod.pdf "opens in new tab"){:target="_blank"}. The first chapter of this text introduces the ideas of using complex analysis to find solutions to the problems of partitions, waring problem and such. By the end of the chapter, the reader is familiarized by the notion of circle method and some applications to distribution of primes. 
-
+<!--more-->
 Although there are some assumptions which the author could've talked about in detail but it is compensated by suggesting books on the matter for the interested reader. This makes the transition from studying the method to making geniune use of, longer than expected but I'm really inclined to see this project through even though it may carry on through the next semester.
 
 This reading is one of the most well structured texts I've read and has opened a serious interest in analytic number theory for me. As my first exposure to the subject, this text comes off as heavy but my enjoyment of the material really makes time fly when I'm engaged with it.
