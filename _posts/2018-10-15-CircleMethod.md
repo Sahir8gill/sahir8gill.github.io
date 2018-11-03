@@ -1,10 +1,10 @@
 ---
 bg: "sendov.jpg"
 layout: post
-title:  "On Bounds for Region Containing All the Zeros of a Complex Polynomial"
-crawlertitle: "Bounds for Region Containing all the zeros of a complex polynomial"
+title:  "Analytic Number Theory: The Circle Method"
+crawlertitle: "Distribution of primes and such"
 summary: ""
-date:   2018-07-05 23:09:47 +0700
+date:   2018-10-15 23:09:47 +0700
 categories: research
 tags: "Research"
 author: Sahir Gill
