@@ -11,7 +11,7 @@ author: Sahir Gill
 welcome: true
 ---
 
-Welcome to my mathematical webpage! Mathematical Mix is a composition of information about me, my research interests, current and past projects and other things that I find beautful. The main objective of this site is to document and present ideas that go through me during the mathematical process. 
+Welcome to my mathematical webpage! Mathematical Mix is a composition of information about me, my research interests, current and past projects and other things that I find beautful.
 
 Feel free to click on any of the tabs to find more information on it. You can contact me via e-mail to for any possible collaborations. 
 
