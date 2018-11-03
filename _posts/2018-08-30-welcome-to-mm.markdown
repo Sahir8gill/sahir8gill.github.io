@@ -14,9 +14,6 @@ welcome: true
 Welcome to my mathematical webpage! Mathematical Mix is a composition of information about me, my research interests, current and past projects and other things that I find beautful.
 
 Feel free to click on any of the tabs to find more information on it. You can contact me via e-mail to for any possible collaborations. 
-
-
-
 <div align="center">
     <a id="social-links" target="_blank" href="mailto:sahirgill8@gmail.com"><img src="/mail.png" width="auto" title="email" alt="My Email"></a>
     <a id="social-links" target="_blank" href="https://www.instagram.com/sahir8gill/"><img src="/insta.png" width="auto" title="Instagram" alt="My Instagram"></a>
