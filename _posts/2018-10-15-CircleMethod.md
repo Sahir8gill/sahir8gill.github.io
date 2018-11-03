@@ -9,3 +9,5 @@ categories: research
 tags: "Research"
 author: Sahir Gill
 ---
+
+This informal project on analytic number theory has started off with an introduction to the [Circle Method by Miller and Takloo-Bighash.]({{ sahir8gill.github.io }}/assets/circlemethod.pdf "opens in new tab"){:target="_blank"}
