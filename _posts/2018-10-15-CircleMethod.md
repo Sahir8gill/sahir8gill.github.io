@@ -1,5 +1,5 @@
 ---
-bg: "sendov.jpg"
+bg: "NumbT.jpg"
 layout: post
 title:  "Analytic Number Theory: The Circle Method"
 crawlertitle: "Distribution of primes and such"
