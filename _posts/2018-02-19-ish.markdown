@@ -10,7 +10,7 @@ tags: 'Poetry'
 author: Sahir Gill
 ---
 
-
+<!--more-->
 I stand here in front of a cave
 
 The sun sets behind, dives into the sea
