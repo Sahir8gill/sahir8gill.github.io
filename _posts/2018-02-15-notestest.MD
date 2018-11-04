@@ -15,7 +15,7 @@ These are the notes I made for last minute revision before the exam. I was enrol
 [Revision Notes]({{ sahir8gill.github.io }}/assets/GREmath.pdf){:target="_blank"}.
 
 Here's a compilation of resources that I found helpful:
-<!--more-->
+
 1. Princeton Review Book for the test ofcourse.
 2. [Berkeley](https://guide.math.berkeley.edu/2017/03/13/gre-math-subject-test-preparation-strategies/){:target="_blank"}
 3. [AMS](https://blogs.ams.org/mathmentoringnetwork/2017/04/03/tips-for-the-gre-math-subject-test/){:target="_blank"}
