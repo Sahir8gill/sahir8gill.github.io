@@ -10,7 +10,7 @@ tags: "Notes&Quotes"
 author: Sahir Gill
 ---
 
-These are the notes I made myself for last minute revision before the exam. I was enrolled in Algebra and Real Analysis when I took the test so notes from those chapters aren't as comprehensive as others. If there are any errors, let me know. 
+These are the notes I made for last minute revision before the exam. I was enrolled in Algebra and Real Analysis when I took the test so notes from those chapters aren't as comprehensive as others. If there are any errors, let me know. 
 
 [Revision Notes]({{ sahir8gill.github.io }}/assets/GREmath.pdf){:target="_blank"}.
 
