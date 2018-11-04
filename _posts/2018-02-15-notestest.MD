@@ -1,7 +1,7 @@
 ---
 bg: "notes.jpg"
 layout: post
-title:  "GRE Math Revision Notes" 
+title:  "GRE Math Revision" 
 crawlertitle: "GRE Math"
 summary: ""
 date:   2018-11-01 23:09:47 +0700
