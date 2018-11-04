@@ -9,9 +9,9 @@ categories: poetry
 tags: 'Poetry'
 author: Sahir Gill
 ---
-<!--more-->
-Two rocks clashed and sparked
 
+Two rocks clashed and sparked
+<!--more-->
 They lit the woods and they jarred
 
 He watched in awe as he’d starred
