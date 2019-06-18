@@ -8,7 +8,7 @@ summary: "Sahir Gill"
 active: about
 ---
 
-Hello! I'm a final year undergraduate of Electrical & Electronics Engineering at [Birla Institute of Technology and Science, Pilani: K.K. Birla Goa Campus](http://www.bits-pilani.ac.in/Goa/index.aspx "Institute Homepage"){:target="_blank"}. My primary interest has been mathematics and I have worked on projects in complex analysis and analytical number theory. I also like to write poems and read english literature. Find me on [Goodreads](https://www.goodreads.com/user/show/60278331-sahir-gill "opens in new tab"){:target="_blank"}.
+Hello! I'll be starting graduate school in Mathematics at Oregon State University with a teaching assistant position in September 2019. I completed my undergraduate in Electrical & Electronics Engineering from [Birla Institute of Technology and Science, Pilani: K.K. Birla Goa Campus](http://www.bits-pilani.ac.in/Goa/index.aspx "Institute Homepage"){:target="_blank"} in 2019. My primary interest has been mathematics and I have worked on projects in complex analysis and analytical number theory. I also like to write poems and read english literature. Find me on [Goodreads](https://www.goodreads.com/user/show/60278331-sahir-gill "opens in new tab"){:target="_blank"}.
 
 While majoring in engineering, I have also studied a few mathematics courses, details of which can be found [here]({{ sahir8gill.github.io }}/assets/List of Math Courses.pdf){:target="_blank"}. Subsequently, I have TAed the following math courses:
 
@@ -16,9 +16,6 @@ While majoring in engineering, I have also studied a few mathematics courses, de
 | Mathematics I (Multivariable Calculus)      | Fall '18 |
 | Mathematics II (Linear Algebra & Complex Analysis)      | Spring '18     |
 | Calculus (Work Integrated Learning Program) | Fall '17      |
-
-
-As of August 2018, I am also involved in working towards the upliftment of the economically challenged community around campus by providing educational assistance to children living there on a bi-weekly basis. This project is undertaken by [Nirmaan](https://www.facebook.com/goanirmaan/ "Facebook Page"){:target="_blank"} and I specifically work under Project Lamani. More details about [Nirmaan]({{ sahir8gill.github.io }}/assets/Nirmaan Newsletter.pdf){:target="_blank"}.
 
 In the academic year 2017-2018, I worked as the editor for campus' annual [magazine](http://www.bits-pilani.ac.in/Uploads/Goa_Upload/SIZZLING_SANDS_2016-2017.pdf "Read"){:target="_blank"}.
 
